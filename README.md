@@ -52,7 +52,7 @@ The plugin adds the following REST API endpoints:
   }
 
 - **GET** `/wp/v2/preschool-registration` - Retrieves a list of all preschool registrations. Example response:
-[
+ ```json
   {
     "id": 1,
     "preschool_name": "ABC Preschool",
@@ -85,7 +85,7 @@ The plugin adds the following REST API endpoints:
       "sunday": ""
     }
   }
-]
+
 
 ### License
 This project is licensed under the GNU General Public License (GPL) License - (its just a dummy line)
