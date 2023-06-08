@@ -4,7 +4,7 @@ This is a WordPress plugin that extends the Registration Preschools API with cus
 
 ## Installation
 
-1. Download the plugin files from "phila-preschools"folder.
+1. Download the plugin files from `phila-preschools` folder.
 2. Upload the plugin folder to the `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 
