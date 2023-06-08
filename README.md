@@ -85,7 +85,6 @@ The plugin adds the following REST API endpoints:
       "sunday": ""
     }
   }
-
-
+```
 ### License
 This project is licensed under the GNU General Public License (GPL) License - (its just a dummy line)
